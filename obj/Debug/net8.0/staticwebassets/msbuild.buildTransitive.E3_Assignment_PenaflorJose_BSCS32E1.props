@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\E3_Assignment_PenaflorJose_BSCS32E1.props" />
+</Project>

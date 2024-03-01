@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PENAFLOR_E3_ASSIGNMENT.props" />
+</Project>

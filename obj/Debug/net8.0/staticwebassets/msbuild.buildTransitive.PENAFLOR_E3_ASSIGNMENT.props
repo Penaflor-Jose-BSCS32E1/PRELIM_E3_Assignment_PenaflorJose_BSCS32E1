@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PENAFLOR_E3_ASSIGNMENT.props" />
+</Project>
